@@ -6,9 +6,10 @@
 
 <style lang="scss">
   @import '../styles/colors';
-  
+
   .nav {
-    background: $gray-50;
+    background: #fff;
+    box-shadow: $shadow;
     padding: 1rem;
   }
 </style>
