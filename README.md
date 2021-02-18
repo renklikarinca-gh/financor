@@ -1,1 +1,1 @@
-# financor
+# Financor
